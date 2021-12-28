@@ -1,0 +1,69 @@
+Metin içindeki cümle sayısı: 2
+Python, nesne yönelimli, yorumlamalı, birimsel ve etkileşimli yüksek seviyeli bir programlama dilidir
+Girintilere dayalı basit söz dizimi, dilin öğrenilmesini ve akılda kalmasını kolaylaştırır
+
+Metin içindeki kelime sayısı: 23
+Python
+nesne
+yönelimli
+yorumlamalı
+birimsel
+ve
+etkileşimli
+yüksek
+seviyeli
+bir
+programlama
+dilidir
+Girintilere
+dayalı
+basit
+söz
+dizimi
+dilin
+öğrenilmesini
+ve
+akılda
+kalmasını
+kolaylaştırır
+
+Metin içinde toplam 70 adet sesli harf varken, 8 adet benzersiz sesli harf vardır.
+
+Metin içinde büyük ünlü uyumuna uyan kelime sayısı: 22, uymayan kelime sayısı: 1
+
+Simetrik 1
+JîFî𐱈îF C#C𐱈#CJ𐰓𐰟Jq JîÇ î𐱈𐰎𐰪î𐰮𐰎: 𐰁𐰎:𐰁𐰿𐰪 î𐱈#î£𐰎𐱈î𐰁𐰒𐰎 𐰎𐰮 𐱈𐰎:#îJîÇ ·O𐱈C#C𐱈#¾J𐰟𐰪 ·î𐱈#î𐱈𐰎
+l𐰪 𐰎
+:𐰎
+ ·
+𐰟y𐰒𐰪o
+JOJO𐰒£C𐱈𐰪C𐱈𐰟𐰁 O
+O:C#𐱈C𐰁 CF𐱈O𐰁C 𐰎𐰮 î
+î:𐰎#𐱈î
+𐰎J𐰲l 
+î𐱈îF ·î#î3îF 3l: 𐰒î:CÇ O𐱈C𐰪CF 𐰎J𐰎𐱈î𐰒
+îJî_
+
+Simetrik 2
+𐰵W𐰾W𐱃W𐰾 𐰺𐰣𐰺𐱃𐰣𐰺𐰵´k𐰵𐰙 𐰵W𐰻 W𐱃|dWf|𐰳 z|𐰳z7d W𐱃𐰣WI|𐱃Wzé| |f 𐱃|𐰳𐰣W𐰵W𐰻 y𐰘𐱃𐰺𐰣𐰺𐱃𐰣ğ𐰵kd yW𐱃𐰣W𐱃|𐰷𐰜d |𐰷𐰳|𐰷 y𐰷k?édÔ
+𐰵𐰘𐰵𐰘éI𐰺𐱃d𐰺𐱃kz 𐰘𐰷𐰘𐰳𐰺𐰣𐱃𐰺z 𐰺𐰾𐱃𐰘z𐰺 |f W𐰷W𐰳|𐰣𐱃W𐰷|𐰵p𐰜 𐰷W𐱃W𐰾 yW𐰣W𐰨W𐰾 𐰨𐰜𐰳 éW𐰳𐰺𐰻 𐰘𐱃𐰺d𐰺𐰾 |𐰵|𐱃Wé𐰷W𐰵W𐰯
+
+MD5 1
+D18D1C40172694E91AB7CDDCDD601B0B
+62CAB60B6D49DBD9CD3D419809945253
+
+MD5 2
+2E3EE6D2F2801E5FDE8D3A92EC9D2D6C
+4979131A160D4A63D6C126CB1CD09F1C
+
+MD5 3
+15D288EE79B6A74C89A7EC40C969AA96
+C9CAA2ADC2A099F2726C7BB2FFB0D193
+
+SHA 1
+9E38D27C16B05AF49E38EA02F4492479D18D1C40172694E91AB7CDDCDD601B0B
+2FC9630DA741EB852FC9630DA5BD416D62CAB60B6D49DBD9CD3D419809945253
+
+SHA 2
+F37BF37BF37BF37BF37B0B72D022B8A02E3EE6D2F2801E5FDE8D3A92EC9D2D6C
+D159D159D159D159D159D159D1046B654979131A160D4A63D6C126CB1CD09F1C
